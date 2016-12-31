@@ -1,0 +1,2 @@
+# EventOrganisationApp
+For Handling Events
