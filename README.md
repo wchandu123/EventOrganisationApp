@@ -4,6 +4,7 @@ For Handling Events
 
 Introduction
 -----------------------------------------------------------------
+The above zip file contains all the project files, inlcuding FSD and database import.
 Application for managing your events with a role base backend.
 
 
